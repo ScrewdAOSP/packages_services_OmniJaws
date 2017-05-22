@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-	<string name="owm_api_key" translatable="false" >9f65b19b7a6648346dda93c6973a682c</string>
+        <!-- Screw'd AOSP API Key -->
+	<string name="owm_api_key" translatable="false" >a3be0bb8630f866dfbd9ecc2aca9e093</string>
 
 </resources>
